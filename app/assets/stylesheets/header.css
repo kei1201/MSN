@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+.lists-right {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  margin-bottom: auto;
+  padding-top: 10px;
+  justify-content: flex-end;
+}
+
+
+.user-nickname {
+  text-decoration: none;
+  margin-right: 3vw;
+  color: white;
+  font-weight: bold;
+}
+
+
+.logout {
+  text-decoration: none;
+  color: white;
+}
+
+.login {
+  text-decoration: none;
+  margin-right: 3vw;
+  color: white;
+}
+
+.sign-up {
+  text-decoration: none;
+  color: white;
+}
